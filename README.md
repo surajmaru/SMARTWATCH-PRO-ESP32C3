@@ -1,7 +1,7 @@
 # ESP32c3 Smartwatch Pro
-<img width="2592" height="4608" alt="IMG_20261023_220142" src="https://github.com/user-attachments/assets/3eb1cc6b-edda-4624-9ef6-e04950d3ac00" />
-<img width="2592" height="4608" alt="IMG_20261023_211505" src="https://github.com/user-attachments/assets/cb26a073-474d-4c54-b6c6-e5532bb4a4cd" />
-<img width="4608" height="2592" alt="IMG_20261023_160830" src="https://github.com/user-attachments/assets/b60897fc-d548-4f91-82ed-3a87c59ec38f" />
+<img width="600" height="1067" alt="IMG_20261023_220142" src="https://github.com/user-attachments/assets/3eb1cc6b-edda-4624-9ef6-e04950d3ac00" />
+<img width="600" height="1067" alt="IMG_20261023_211505" src="https://github.com/user-attachments/assets/cb26a073-474d-4c54-b6c6-e5532bb4a4cd" />
+<img width="1200" height="675" alt="IMG_20261023_160830" src="https://github.com/user-attachments/assets/b60897fc-d548-4f91-82ed-3a87c59ec38f" />
 
 
 
