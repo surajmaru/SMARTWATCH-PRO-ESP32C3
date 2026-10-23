@@ -21,8 +21,8 @@
 <img height="700px" width="200px" alt="IMG_20260424_022032" src="https://github.com/user-attachments/assets/924150d6-7957-4314-ab6f-bba3570da979" />
 
 ## Schematics:-
-<img width="1035" height="1050" alt="c3-smartwatch_bb" src="https://github.com/user-attachments/assets/6e4c127b-2770-48cb-99bc-01d9ffd55d5a" />
-<img width="1906" height="878" alt="Screenshot 2026-10-24 011615" src="https://github.com/user-attachments/assets/5a4461b6-6774-4692-9d5c-b1cbfa072a77" />
+<img width="800" height="800" alt="c3-smartwatch_bb" src="https://github.com/user-attachments/assets/6e4c127b-2770-48cb-99bc-01d9ffd55d5a" />
+<img width="800" height="600" alt="Screenshot 2026-10-24 011615" src="https://github.com/user-attachments/assets/5a4461b6-6774-4692-9d5c-b1cbfa072a77" />
 
 ## Flash the firmware:-
 https://logicsuruflasher.vercel.app/
