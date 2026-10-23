@@ -1,6 +1,6 @@
 # ESP32c3 Smartwatch Pro
 
-## Components i used:-
+## Components used:-
 
 - ESP32 C3 super mini
 - 1.3inch oled display
@@ -26,7 +26,7 @@
 
 ## Flash the firmware:-
 https://logicsuruflasher.vercel.app/
-visit the above website to flash the smartwatch pro firmware into your watch!
+visit this website to flash the smartwatch pro firmware into your watch!
 
 ## Important NOTE:- This firmware only works with the esp32 c3 and with the configured wire connections as i showed in the diagram.
 
