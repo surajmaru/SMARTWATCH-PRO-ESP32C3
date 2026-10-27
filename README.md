@@ -37,33 +37,23 @@ A custom-built smartwatch powered by the **ESP32-C3 SuperMini**, combining every
 - **System Status** – View detailed information about the watch and its system.
 - **Phone Notifications (In Development)** – Smartphone notification support is planned through a dedicated companion app currently under development.
 
-### Connectivity & Setup
+## Firmware Flash
 
-Pair and configure the smartwatch using the dedicated **LogicSuru Flasher** web interface.
+Flash the Firmware using the dedicated **LogicSuru Flasher** web interface:-
 
 **[Open LogicSuru Flasher](https://logicsuruflasher.vercel.app/)**
 
-The setup interface supports connecting your phone to the smartwatch through Bluetooth and Wi-Fi, depending on the device and browser capabilities.
+## Configure you smartwatch with your mobile (bluetooth & wifi):-
+
+https://logicsuruwatch.vercel.app/
 
 ### Battery Life
 
 Approximately **8–10 hours** under normal usage. Actual battery life varies depending on screen brightness, connectivity, and feature usage.
 
-### Build & Design
-
-- ESP32-C3 SuperMini-based hardware.
-- Custom-developed smartwatch firmware.
-- Rigid, compact DIY enclosure.
-- Integrated display, physical button, and touch input.
-- Rechargeable battery-powered design.
-
 ### Project Overview
 
 This project explores **embedded systems, wearable electronics, and custom firmware development**, bringing together practical smartwatch features, interactive entertainment, and personalized software in a compact DIY device.
-
-## Flash the firmware:-
-https://logicsuruflasher.vercel.app/
-visit this website to flash the smartwatch pro firmware into your watch!
 
 ## Important NOTE:- This firmware only works with the esp32 c3 and with the configured wire connections as i showed in the diagram.
 
